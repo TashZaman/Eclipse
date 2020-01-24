@@ -1,2 +1,2 @@
 # Eclipse
-This is a test for eclipse
+This is a test, I'm new to GitHub!
